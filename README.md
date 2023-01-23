@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SantoshBoggarapu
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m a python developer,java developer,data scientist
 - 💞️ I’m looking to collaborate with software company
 - 📫 How to reach me santoshboggarapu1@gmail.com
 
